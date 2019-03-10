@@ -1,5 +1,7 @@
 Cat Survey - project for the FreeCodeCamp responsive web desig certification
 
+Utilises HTML and CSS only
+
 User stories:
 
 User Story #1: I can see a title with id="title" in H1 sized text.
